@@ -26,6 +26,10 @@
           <option name="url" value="https://gitee.com/babaio/renren-security.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gaopai/final_oa.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\gaopai\IdeaProjects" />
